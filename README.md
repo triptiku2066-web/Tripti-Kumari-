@@ -6,6 +6,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/0040-combination-sum-ii) |
 | [0200-number-of-islands](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -65,4 +67,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/0200-number-of-islands) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
