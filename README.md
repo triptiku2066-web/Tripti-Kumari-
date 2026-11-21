@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -84,10 +85,15 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
