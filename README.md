@@ -11,6 +11,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/0200-number-of-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,4 +85,9 @@
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
