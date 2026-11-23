@@ -90,6 +90,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/triptiku2066-web/Tripti-Kumari-/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
